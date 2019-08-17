@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun May 15 23:18:33 EEST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0154-b611-fd16-00000d2c38f0 
+on database directory D:\Program Files (x86)\JetBrains\IntelliJ IDEA 2016.1\bin\hastanerandevu with class loader sun.misc.Launcher$AppClassLoader@2a84aee7 
+Loaded from file:/C:/Users/ms%c4%b1/IdeaProjects/HospitalManagement/src/db-derby-10.12.1.1-lib/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_74-b02
+user.dir=C:\Users\msı\IdeaProjects\HospitalManagement
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
